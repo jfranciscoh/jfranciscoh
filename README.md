@@ -1,16 +1,23 @@
-### Hola 👋
+Hola 👋,
 
-<!--
-**jfranciscoh/jfranciscoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Juan Francisco Herrera 👨‍💻.
 
-Here are some ideas to get you started:
+Actualmente, enfoco mi carrera como programador e ingeniero de datos 🛠️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me encuentro en constante estudio sobre tecnología y herramientas que me ayuden a mejorar 📚.
+
+Siempre estoy mirando y pensando en qué puedo automatizar en mi vida diaria 🤖.
+
+Si quieres contactarme, háblame aquí: [LinkedIn](https://www.linkedin.com/in/jfherreras/) 💬.
+
+Mi stack incluye:
+
+- Python 🐍
+- React ⚛️
+- Material UI 🖌️
+- HTML5 📝
+- Looker Studio 📊
+- Apache Airflow ☁️
+- Power BI 🔌
+- Power Apps 📱
+- Power Automate ⚙️
