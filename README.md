@@ -1,23 +1,25 @@
-###Hola 👋,
+# ¡Hola! 👋
 
 Mi nombre es Juan Francisco Herrera 👨‍💻.
 
-Actualmente, enfoco mi carrera como programador e ingeniero de datos 🛠️.
+🛠️ Actualmente, estoy enfocado en mi carrera como programador e ingeniero de datos.
 
-Me encuentro en constante estudio sobre tecnología y herramientas que me ayuden a mejorar 📚.
+📚 Siempre estoy en constante estudio de la tecnología y herramientas que me ayudan a mejorar mis habilidades.
 
-Siempre estoy mirando y pensando en qué puedo automatizar en mi vida diaria 🤖.
+🤖 Me apasiona la automatización en mi vida diaria, siempre buscando formas de simplificar tareas.
 
-Si quieres contactarme, háblame aquí: [LinkedIn](https://www.linkedin.com/in/jfherreras/) 💬.
+## ¿Quieres ponerte en contacto?
 
-Mi stack incluye:
+Puedes encontrarme en mi perfil de [LinkedIn](https://www.linkedin.com/in/jfherreras/) 💬.
 
-*Python 🐍
-*React ⚛️
-*Material UI 🖌️
-*HTML5 📝
-*Looker Studio 📊
-*Apache Airflow ☁️
-*Power BI 🔌
-*Power Apps 📱
-*Power Automate ⚙️
+## Tecnologías que manejo:
+
+* Python 🐍
+- React ⚛️
+- Material UI 🖌️
+- HTML5 📝
+- Looker Studio 📊
+- Apache Airflow ☁️
+- Power BI 🔌
+- Power Apps 📱
+- Power Automate ⚙️
