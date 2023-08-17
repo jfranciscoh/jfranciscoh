@@ -1,4 +1,4 @@
-Hola 👋,
+###Hola 👋,
 
 Mi nombre es Juan Francisco Herrera 👨‍💻.
 
@@ -12,12 +12,12 @@ Si quieres contactarme, háblame aquí: [LinkedIn](https://www.linkedin.com/in/j
 
 Mi stack incluye:
 
-- Python 🐍
-- React ⚛️
-- Material UI 🖌️
-- HTML5 📝
-- Looker Studio 📊
-- Apache Airflow ☁️
-- Power BI 🔌
-- Power Apps 📱
-- Power Automate ⚙️
+*Python 🐍
+*React ⚛️
+*Material UI 🖌️
+*HTML5 📝
+*Looker Studio 📊
+*Apache Airflow ☁️
+*Power BI 🔌
+*Power Apps 📱
+*Power Automate ⚙️
